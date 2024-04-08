@@ -1,4 +1,27 @@
-header {
-    background-color: #1170e4;
-    color: rgb(12, 2, 29);
+.cabeçalho{
+    background-color: #07254a;   
+}
+
+.cabeçalho-título{color: aqua;
+}
+
+.cabeçalho-lista {color: beige;
+}
+
+.cabeçalho-imagem{ width: 10%;}
+
+.cabeçalho {
+    background-color: black;
+}
+
+.cabeçalho-título{
+    color: beige;
+}
+
+.cabeçalho-lista{ 
+    color: beige;
+}
+
+.cabeçalho-imagem{
+    color: azure;
 }
