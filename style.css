@@ -24,10 +24,13 @@
     margin: 0 16px;
 }
 
-.cabeçalho-imagem{ width: 10%;}
+.cabeçalho-imagem{ width: 10%;
+    align-items: center
+}
 
 .apresentação-imagem {
-    width: 25%;
+    width: 10%;
+    align-items: center
 }
 
 .cabeçalho {
