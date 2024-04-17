@@ -1,27 +1,37 @@
 .cabeçalho{
-    background-color: #07254a;   
+    background-color: #16074a;   
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .cabeçalho-título{color: aqua;
+    font-size: 48px
 }
 
 .cabeçalho-lista {color: beige;
+    font-size: 24px;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabeçalho-lista-item2 {
+    display: inline-block;
+    margin: 0 16px;
 }
 
 .cabeçalho-imagem{ width: 10%;}
+
+.apresentação-imagem {
+    width: 25%;
+}
 
 .cabeçalho {
     background-color: black;
 }
 
-.cabeçalho-título{
-    color: beige;
-}
 
-.cabeçalho-lista{ 
-    color: beige;
-}
-
-.cabeçalho-imagem{
-    color: azure;
-}
