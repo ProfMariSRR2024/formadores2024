@@ -1,16 +1,18 @@
-.cabeçalho{
-    background-color: #16074a;   
+.cabeçalho {
+    background-color: #16074a;
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
     align-items: center;
 }
 
-.cabeçalho-título{color: aqua;
+.cabeçalho-título {
+    color: aqua;
     font-size: 48px
 }
 
-.cabeçalho-lista {color: beige;
+.cabeçalho-lista {
+    color: beige;
     font-size: 24px;
 }
 
@@ -22,9 +24,14 @@
 .cabeçalho-lista-item2 {
     display: inline-block;
     margin: 0 16px;
-}
+    
+    .cabeçalho-título-Histórico {
+        background-image: -moz-linear-gradient(rgb(238, 150, 18);
+        display: flex;
+    }
 
-.cabeçalho-imagem{ width: 10%;
+.cabeçalho-imagem {
+    width: 10%;
     align-items: center
 }
 
@@ -36,5 +43,3 @@
 .cabeçalho {
     background-color: black;
 }
-
-
