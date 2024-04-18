@@ -1,11 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
 .cabecalho {
-    background-color: #3c14cc;
+    background-color: #424E61;
+    color: white;
     display: flex;
-    padding: 24px 0;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
 }
-
 .cabecalho-título {
     background-image: aqua;
     font-size: 48px
@@ -54,3 +61,4 @@
         
         .escola-div-conteudo{
             width: 35%;
+        }
