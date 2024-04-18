@@ -44,21 +44,24 @@ body {
 .cabecalho-lista-item2 {
     display: inline-block;
     margin: 0 16px;
+}
+.Histórico{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
 
-    .Histórico {
-        background-image: linear-gradient(#424E61,#16CFF8);
-        color:white;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 24px 0;
-        }
+.Histórico-div-conteudo{
+    width: 35%;
+}
 
-        .Histórico {
-            color: darkblue;
-            display: flex;
-        }     
-        
-        .escola-div-conteudo{
-            width: 35%;
-        }
+.Histórico-titulo{
+    padding: 24px 0;
+}
+
+.Histórico{
+    padding: 24px 0;
+}
