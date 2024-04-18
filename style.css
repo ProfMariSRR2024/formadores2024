@@ -20,31 +20,31 @@
     display: inline-block;
     margin: 0 16px;
 }
+.cabeçalho-imagem {
+    width: 10%;
+    align-items: center
+}
+
+.apresentação-imagem {
+    width: 10%;
+    align-items: center
+}
+
+.cabeçalho {
+    background-color: black;
+}
 
 .cabeçalho-lista-item2 {
     display: inline-block;
     margin: 0 16px;
 
     .Histórico {
-        background-image: -moz-linear-gradient(rgb(238, 150, 18);
+        background-color: antiquewhite;
                 display: flex;
+                justify-content: center;
         }
 
         .Histórico {
             color: darkblue;
             display: flex;
-        }
-
-        .cabeçalho-imagem {
-            width: 10%;
-            align-items: center
-        }
-
-        .apresentação-imagem {
-            width: 10%;
-            align-items: center
-        }
-
-        .cabeçalho {
-            background-color: black;
-        }
+        }     
